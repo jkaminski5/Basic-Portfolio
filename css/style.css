@@ -1,0 +1,15 @@
+body {
+	background: #efeee7;
+	margin: 0;
+	padding: 0;
+	font-family: "Georgia", "Times New Roman", Times, serif,
+	font-size: 18px;
+	line-height: 150%
+}
+
+h1 {
+	color: #efeee7;
+	background: #008080;
+	margin: 0;
+	
+}
